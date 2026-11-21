@@ -10,7 +10,9 @@ Instalar Windows Server en DC01 con interfaz gráfica.
 4. Definir la contraseña del Administrador (solo para el laboratorio; nunca se documenta ni se reutiliza).
 5. Iniciar sesión. Para Ctrl+Alt+Supr dentro de la VM: Ctrl derecho + Supr.
 
-📷 Captura: `capturas/02-escritorio-servidor.png`
+![Escritorio de Windows Server 2025 Standard Evaluation](capturas/02-escritorio-servidor.png)
+
+*Windows Server 2025 Standard Evaluation, con licencia de evaluación válida durante 180 días.*
 
 ## Instantánea (snapshot)
 Se tomó la instantánea **"Instalación limpia"**. Sirve como punto de guardado para volver atrás si una configuración posterior falla.
