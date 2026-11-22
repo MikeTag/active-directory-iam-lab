@@ -28,8 +28,8 @@ Entender cómo funciona la gestión de identidades en una empresa: crear identid
 |---|---|---|
 | 1 | Preparación y máquinas virtuales | ✅ |
 | 2 | Instalación de Windows Server | ✅ |
-| 3 | Nombre, IP y creación del dominio | ⏳ |
-| 4 | OUs, grupos y usuarios | ⏳ |
+| 3 | Nombre, IP y creación del dominio | ✅ |
+| 4 | OUs, grupos y usuarios | ✅ |
 | 5 | Cliente unido al dominio | ⏳ |
 | 6 | Permisos por rol (RBAC) | ⏳ |
 | 7 | Políticas de grupo (GPO) | ⏳ |
@@ -60,8 +60,8 @@ flowchart LR
 ## Guía paso a paso
 1. [Preparación y máquinas virtuales](docs/01-preparacion.md)
 2. [Instalación de Windows Server](docs/02-windows-server.md)
-3. Nombre, IP y dominio *(pendiente)*
-4. OUs, grupos y usuarios *(pendiente)*
+3. [Nombre, IP y dominio](docs/03-nombre-ip-dominio.md)
+4. [OUs, grupos y usuarios](docs/04-ou-grupos-usuarios.md)
 5. Cliente y unión al dominio *(pendiente)*
 6. Permisos por rol *(pendiente)*
 7. Políticas de grupo *(pendiente)*
